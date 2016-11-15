@@ -6,7 +6,7 @@
         "editlink": {
             "base": "https://github.com/christianalfoni/testbook/edit/master",
             "label": "Edit This Page",
-            "multilingual": "false"
+            "multilingual": false
         }
     }
 }
